@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<launch>
+    <!-- start standalone node -->
+    <node 
+          pkg="visualization_converter"
+          name="visualization_converter"
+          type="visualize.py"
+    >
+    </node>
+</launch>
