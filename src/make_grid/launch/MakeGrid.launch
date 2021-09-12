@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<launch>
+    <!-- start standalone node -->
+    <node 
+          pkg="make_grid"
+          name="make_grid"
+          type="make_grid.py"
+    >
+    </node>
+</launch>
