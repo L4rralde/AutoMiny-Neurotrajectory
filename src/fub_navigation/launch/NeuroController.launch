@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<launch>
+    <!-- start standalone node -->
+  <group ns="controller">
+    <node 
+          pkg="fub_navigation"
+          name="fub_navigation"
+          type="neurocontroller.py"
+    >
+    </node>
+  </group>
+</launch>
