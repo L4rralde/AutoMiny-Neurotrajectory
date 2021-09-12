@@ -1,0 +1,1 @@
+Actually, this package came from the AutoMiny's base distribution. I've added a python script and a launch file in order to visualize the desired velocity vector given by the neural network from fub navigation.
